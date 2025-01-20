@@ -22,11 +22,11 @@ The Weather Health Advisor allows users to enter a city name, get the current we
 4. Activate the virtual environment:
 
    On Windows:
-   ```bash
-   venv\Scripts\activate
+      ```bash
+      venv\Scripts\activate
    On Mac/Linux:
-   ```bash
-   source venv/bin/activate
+      ```bash
+      source venv/bin/activate
 5. Install dependencies:
 
    ```bash
@@ -41,7 +41,7 @@ The Weather Health Advisor allows users to enter a city name, get the current we
    Enter the name of the city when prompted, and receive weather data and health advice.
 
 Contributors
-```markdown
--KP012-pixel
+   ```markdown
+   -KP012-pixel
 License
 This project is licensed under the MIT License.
