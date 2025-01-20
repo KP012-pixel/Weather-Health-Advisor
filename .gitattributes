@@ -1,0 +1,5 @@
+# Use LF for text files
+* text=auto
+
+# Ensure .env file is treated as a binary file (no automatic line ending conversion)
+.env binary
